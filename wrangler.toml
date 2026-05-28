@@ -1,0 +1,7 @@
+name = "cloudflare-proxy-worker"
+main = "worker.js"
+compatibility_date = "2026-05-28"
+# For automatic deployment to Workers Sites (optional)
+# type = "javascript"
+
+# Optional KV, Durable Objects, or environment secrets can go here
