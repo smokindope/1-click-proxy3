@@ -1,6 +1,6 @@
 # Cloudflare Worker Proxy
 
-Simple reverse proxy Worker.
+NetR Simple reverse proxy Worker.
 
 ## Deploy (1 click)
 
